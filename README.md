@@ -3,6 +3,7 @@
 ## About me:
 
 I define myself as a researcher first and foremost.  
+
 Throughout my career, I have always had the urge to keep learning and honing new skills. And I keep doing so in the field of data analytics.
 
 ## What do I know how to work with?:

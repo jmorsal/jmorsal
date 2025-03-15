@@ -10,6 +10,7 @@ Throughout my career, I have always had the urge to keep learning and honing new
 
 - Python
 - SQL
+- Power BI
 
 ## Some projects that have helped me learn:
 
